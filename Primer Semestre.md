@@ -1,2 +1,2 @@
-#PRIMERA PARCIAL
-##Ejercicio 1
+# PRIMERA PARCIAL
+## Ejercicio 1
