@@ -1,3 +1,4 @@
-![ICI](https://user-images.githubusercontent.com/122065504/210913988-bd49ff7b-8c13-4477-bac4-0cda4a79f473.png)
+![m_UdeC](https://user-images.githubusercontent.com/122065504/210914078-cb99e2fe-9e7d-4f09-86d4-d474d5a7219a.png)
+
 # PRIMERA PARCIAL
 ## Ejercicio 1.-
