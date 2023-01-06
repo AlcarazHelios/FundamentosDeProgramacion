@@ -7,7 +7,7 @@
 ## Ejercicio 1.- Realizar una suma, una resta y una multiplicación de dos números.
 ### Análisis
 **Variables:** a, b, suma, resta, multi. \
-**Datos de entrada:* a, b. \
+**Datos de entrada:** a, b. \
 **Datos de salida:** suma, resta, multi. 
 ***
 ### Diagrama de flujo de datos
