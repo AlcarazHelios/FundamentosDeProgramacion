@@ -1,5 +1,4 @@
-![FIME](https://user-images.githubusercontent.com/113320901/190930198-3a6cbc65-bbc3-4fb0-8d18-65a49be47e46.jpg)     ![UdeC](https://user-images.githubusercontent.com/122065504/210910117-257bf681-42a0-46f3-91e5-7bdc1e71c0a7.png)
-
+![FIME](https://user-images.githubusercontent.com/113320901/190930198-3a6cbc65-bbc3-4fb0-8d18-65a49be47e46.jpg)     ![m_UdeC](https://user-images.githubusercontent.com/122065504/210912724-817774fd-84e7-4960-bd79-57452d81bcef.png)
 
 
 # FACULTAD DE INGENIERÍA MECÁNICA Y ELÉCTRICA
